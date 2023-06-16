@@ -3,6 +3,7 @@
 *.user
 _ReSharper.*/
 *.sdf
+.vs/
 bin/
 obj/
 Debug/
@@ -15,3 +16,7 @@ TestResult.xml
 Version.cs
 Version.h
 Version.cpp
+*/**/bin/Debug
+*/**/bin/Release
+*/**/obj/Debug
+*/**/obj/Release
